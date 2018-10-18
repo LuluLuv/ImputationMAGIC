@@ -1,0 +1,2 @@
+# ImputationMAGIC
+Imputation algorithm
